@@ -1,0 +1,15 @@
+C:\Users\eoeef\OneDrive\Desktop\CMP1903M A01 2223\dotnet\bin\Debug\net7.0\dotnet.exe
+C:\Users\eoeef\OneDrive\Desktop\CMP1903M A01 2223\dotnet\bin\Debug\net7.0\dotnet.deps.json
+C:\Users\eoeef\OneDrive\Desktop\CMP1903M A01 2223\dotnet\bin\Debug\net7.0\dotnet.runtimeconfig.json
+C:\Users\eoeef\OneDrive\Desktop\CMP1903M A01 2223\dotnet\bin\Debug\net7.0\dotnet.dll
+C:\Users\eoeef\OneDrive\Desktop\CMP1903M A01 2223\dotnet\bin\Debug\net7.0\dotnet.pdb
+C:\Users\eoeef\OneDrive\Desktop\CMP1903M A01 2223\dotnet\obj\Debug\net7.0\dotnet.csproj.AssemblyReference.cache
+C:\Users\eoeef\OneDrive\Desktop\CMP1903M A01 2223\dotnet\obj\Debug\net7.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoeef\OneDrive\Desktop\CMP1903M A01 2223\dotnet\obj\Debug\net7.0\dotnet.AssemblyInfoInputs.cache
+C:\Users\eoeef\OneDrive\Desktop\CMP1903M A01 2223\dotnet\obj\Debug\net7.0\dotnet.AssemblyInfo.cs
+C:\Users\eoeef\OneDrive\Desktop\CMP1903M A01 2223\dotnet\obj\Debug\net7.0\dotnet.csproj.CoreCompileInputs.cache
+C:\Users\eoeef\OneDrive\Desktop\CMP1903M A01 2223\dotnet\obj\Debug\net7.0\dotnet.dll
+C:\Users\eoeef\OneDrive\Desktop\CMP1903M A01 2223\dotnet\obj\Debug\net7.0\refint\dotnet.dll
+C:\Users\eoeef\OneDrive\Desktop\CMP1903M A01 2223\dotnet\obj\Debug\net7.0\dotnet.pdb
+C:\Users\eoeef\OneDrive\Desktop\CMP1903M A01 2223\dotnet\obj\Debug\net7.0\dotnet.genruntimeconfig.cache
+C:\Users\eoeef\OneDrive\Desktop\CMP1903M A01 2223\dotnet\obj\Debug\net7.0\ref\dotnet.dll
